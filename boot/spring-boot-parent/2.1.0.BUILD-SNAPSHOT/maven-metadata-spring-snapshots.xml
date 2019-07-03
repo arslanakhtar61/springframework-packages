@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-parent</artifactId>
+  <version>2.1.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181030.064024</timestamp>
+      <buildNumber>620</buildNumber>
+    </snapshot>
+    <lastUpdated>20181030064024</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1.0.BUILD-20181030.064024-620</value>
+        <updated>20181030064024</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

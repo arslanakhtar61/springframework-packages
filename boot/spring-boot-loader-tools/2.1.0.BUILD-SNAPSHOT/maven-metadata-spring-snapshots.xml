@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-loader-tools</artifactId>
+  <version>2.1.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181030.064019</timestamp>
+      <buildNumber>620</buildNumber>
+    </snapshot>
+    <lastUpdated>20181030064020</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>2.1.0.BUILD-20181030.064019-620</value>
+        <updated>20181030064019</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.1.0.BUILD-20181030.064019-620</value>
+        <updated>20181030064019</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.1.0.BUILD-20181030.064019-620</value>
+        <updated>20181030064019</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1.0.BUILD-20181030.064019-620</value>
+        <updated>20181030064019</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

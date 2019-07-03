@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 30 00:08:33 CST 2019
+https\://packages.confluent.io/maven/.lastUpdated=1556554111916
+https\://packages.confluent.io/maven/.error=
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1556554112211
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.spring.io/release/.lastUpdated=1556554113183

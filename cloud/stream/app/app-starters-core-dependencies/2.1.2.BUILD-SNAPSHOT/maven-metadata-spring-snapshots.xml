@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud.stream.app</groupId>
+  <artifactId>app-starters-core-dependencies</artifactId>
+  <version>2.1.2.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190321.160521</timestamp>
+      <buildNumber>8</buildNumber>
+    </snapshot>
+    <lastUpdated>20190321160521</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1.2.BUILD-20190321.160521-8</value>
+        <updated>20190321160521</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

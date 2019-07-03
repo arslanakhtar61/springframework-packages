@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.kafka</groupId>
+  <artifactId>spring-kafka</artifactId>
+  <version>2.3.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190702.154023</timestamp>
+      <buildNumber>124</buildNumber>
+    </snapshot>
+    <lastUpdated>20190702154606</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>2.3.0.BUILD-20190702.154023-124</value>
+        <updated>20190702154023</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.3.0.BUILD-20190702.154023-124</value>
+        <updated>20190702154023</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.3.0.BUILD-20190702.154023-124</value>
+        <updated>20190702154023</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.3.0.BUILD-20190702.154023-124</value>
+        <updated>20190702154023</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 30 00:10:16 CST 2019
+spring-security-core-5.1.5.RELEASE-sources.jar>spring-releases=
+spring-security-core-5.1.5.RELEASE.jar>spring-releases=
+spring-security-core-5.1.5.RELEASE.pom>spring-releases=

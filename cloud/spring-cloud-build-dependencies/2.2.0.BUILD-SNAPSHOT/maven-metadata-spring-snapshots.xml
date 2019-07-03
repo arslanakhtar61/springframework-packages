@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-build-dependencies</artifactId>
+  <version>2.2.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190702.151931</timestamp>
+      <buildNumber>962</buildNumber>
+    </snapshot>
+    <lastUpdated>20190702151931</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.2.0.BUILD-20190702.151931-962</value>
+        <updated>20190702151931</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

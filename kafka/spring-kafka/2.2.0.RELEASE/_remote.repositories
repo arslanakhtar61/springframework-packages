@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 28 22:04:34 CST 2019
+spring-kafka-2.2.0.RELEASE-sources.jar>spring-releases=
+spring-kafka-2.2.0.RELEASE.pom>spring-releases=
+spring-kafka-2.2.0.RELEASE.jar>spring-releases=

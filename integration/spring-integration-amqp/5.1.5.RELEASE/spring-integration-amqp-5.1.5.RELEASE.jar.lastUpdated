@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 19 11:29:10 CST 2019
+@default-confluent-https\://packages.confluent.io/maven/.lastUpdated=1560914945601
+https\://packages.confluent.io/maven/.error=Could not transfer artifact org.springframework.integration\:spring-integration-amqp\:jar\:5.1.5.RELEASE from/to confluent (https\://packages.confluent.io/maven/)\: C\:\\Users\\Muhammad Arslan\\.m2\\repository\\org\\springframework\\integration\\spring-integration-amqp\\5.1.5.RELEASE\\spring-integration-amqp-5.1.5.RELEASE.jar.part.lock (The process cannot access the file because it is being used by another process)
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1560914946162
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.spring.io/release/.lastUpdated=1560914950351

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 28 21:30:50 CST 2019
+spring-integration-kafka-3.0.3.RELEASE-sources.jar>spring-milestones=
+spring-integration-kafka-3.0.3.RELEASE.jar>spring-milestones=
+spring-integration-kafka-3.0.3.RELEASE.pom>spring-milestones=

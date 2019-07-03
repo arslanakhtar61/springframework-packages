@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 01 00:28:56 CST 2019
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1551371336116
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.boot\:spring-boot-actuator\:pom\:2.0.9.BUILD-20190212.130934-2\: C\:\\Users\\Muhammad Arslan\\.m2\\repository\\org\\springframework\\boot\\spring-boot-actuator\\2.0.9.BUILD-SNAPSHOT\\spring-boot-actuator-2.0.9.BUILD-SNAPSHOT.pom (The requested operation cannot be performed on a file with a user-mapped section open)

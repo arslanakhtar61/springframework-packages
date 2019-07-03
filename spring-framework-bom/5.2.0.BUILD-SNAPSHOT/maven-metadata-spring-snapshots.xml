@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework</groupId>
+  <artifactId>spring-framework-bom</artifactId>
+  <version>5.2.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190627.130715</timestamp>
+      <buildNumber>490</buildNumber>
+    </snapshot>
+    <lastUpdated>20190627132112</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>5.2.0.BUILD-20190627.130715-490</value>
+        <updated>20190627130715</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>txt</extension>
+        <value>5.2.0.BUILD-20190627.130715-490</value>
+        <updated>20190627130715</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

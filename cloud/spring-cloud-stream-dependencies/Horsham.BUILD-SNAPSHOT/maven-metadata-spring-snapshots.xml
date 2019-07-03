@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-stream-dependencies</artifactId>
+  <version>Horsham.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190620.162214</timestamp>
+      <buildNumber>24</buildNumber>
+    </snapshot>
+    <lastUpdated>20190620162227</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Horsham.BUILD-20190620.162214-24</value>
+        <updated>20190620162214</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

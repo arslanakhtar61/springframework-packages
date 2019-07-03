@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 28 22:04:13 CST 2019
+spring-integration-jmx-5.1.0.RELEASE.jar>spring-releases=
+spring-integration-jmx-5.1.0.RELEASE.pom>spring-releases=
+spring-integration-jmx-5.1.0.RELEASE-sources.jar>spring-releases=

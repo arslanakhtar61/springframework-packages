@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 30 00:12:45 CST 2019
+http\://repo.spring.io/libs-snapshot-local/.error=
+http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1552004423815
+https\://repo.spring.io/libs-snapshot-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1556554365111

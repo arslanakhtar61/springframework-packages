@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-stream-binder-kafka-parent</artifactId>
+  <version>2.2.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190507.123851</timestamp>
+      <buildNumber>116</buildNumber>
+    </snapshot>
+    <lastUpdated>20190507123851</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.2.0.BUILD-20190507.123851-116</value>
+        <updated>20190507123851</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

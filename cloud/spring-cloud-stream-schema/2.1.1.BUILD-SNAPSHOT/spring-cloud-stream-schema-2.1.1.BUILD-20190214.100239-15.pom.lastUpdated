@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 28 20:55:13 CST 2019
+http\://packages.confluent.io/maven/.error=
+http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1551358513519
+http\://packages.confluent.io/maven/.lastUpdated=1551358512992

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 13 22:08:52 CST 2019
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1552409738733
+https\://repo.spring.io/milestone/.lastUpdated=1552486132441
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.cloud.stream.app\:app-starters-core-dependencies\:pom\:2.1.0.RELEASE from/to spring-snapshots (https\://repo.spring.io/snapshot)\: Failed to transfer https\://repo.spring.io/snapshot/org/springframework/cloud/stream/app/app-starters-core-dependencies/2.1.0.RELEASE/app-starters-core-dependencies-2.1.0.RELEASE.pom. Error code 500, 
